@@ -14,7 +14,7 @@
         "bootstrap": "^4.1.0",
         "cross-env": "^5.1",
         "handlebars": "^4.7.3",
-        "handlebars-loader": "^1.7.1",
+        "handlebars-loader": "^1.7.3",
         "jquery": "^3.2",
         "jquery-ui": "^1.12.1",
         "laravel-mix": "^4.0.7",
